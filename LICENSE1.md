@@ -9,3 +9,5 @@ this is also awesome
 a new change has been added
 
 last line
+
+new line from conflict-branch
